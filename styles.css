@@ -8,7 +8,7 @@ body {
 }
 
 .navbar {
-  float: right; /* Navigasyon menüsünü sağa yasla */
+  float: left; /* Navigasyon menüsünü sola yasla */
 }
 
 .navbar .nav-link {
