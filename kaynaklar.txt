@@ -1,0 +1,16 @@
+Merhaba @everyone,
+
+🗓️ 18 Mart tarihinde gerçekleştirdiğimiz yayında kullandığımız web sitesi ve bu siteye ilişkin örnek promptlar ve görsellerin bulunduğu GitHub repo linkini sizlerle paylaşmak istiyoruz: 
+
+🗃️ Github : https://github.com/yildirim-alican/bootcamp-website-ornek
+
+Ayrıca, bu web sitesini bir düzenleyici yardımıyla nasıl çalıştıracağınıza dair üç farklı kaynak da yanınızda! İlgilenenler için:
+
+📄 Kaynak 1 : https://hvsonmez.medium.com/html-projesi-olu%C5%9Fturmak-ve-geli%C5%9Ftirmek-i%C3%A7in-bir-html-edit%C3%B6r-i%C5%9Finizi-kolayla%C5%9Ft%C4%B1rabilir-dfb4777b9e0c
+
+📄 Kaynak 2 : https://www.wikihow.com.tr/HTML-ile-Basit-Bir-Web-Sayfas%C4%B1-Nas%C4%B1l-Olu%C5%9Fturulur
+
+📄 Kaynak 3 : https://uzmanimakademi.net/html/html-genel
+
+🗓️ 21 Mart Perşembe günü saat 20.00'da gerçekleşecek 2. Mentor toplantımızda kahvenizi kapın ve sorularınızı, merak ettiklerinizi ve daha fazlasını bize sorun! Sizlerle buluşmayı dört gözle bekliyoruz. 🚀
+
