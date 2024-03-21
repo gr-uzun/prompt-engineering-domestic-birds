@@ -1,0 +1,55 @@
+body {
+  padding-top: 70px; /* Navbar'ın üzerindeki kısmı kaplaması için */
+}
+
+.logo {
+  max-width: 100px;
+  float: left; /* Logo'yu sola yasla */
+}
+
+.navbar {
+  float: right; /* Navigasyon menüsünü sağa yasla */
+}
+
+.navbar .nav-link {
+  color: white;
+}
+
+.gallery-item {
+  border: 2px solid #000;
+  margin-bottom: 20px;
+}
+
+.image-frame,
+.info-frame {
+  padding: 10px;
+}
+
+.image-frame img {
+  width: 100%;
+}
+
+.bird-name,
+.bird-info {
+  text-align: center;
+}
+
+/* Dark tema stil tanımları */
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-theme header,
+.dark-theme footer {
+  background-color: #222;
+}
+
+.dark-theme .navbar .nav-link {
+  color: #fff;
+}
+
+.dark-theme .gallery-item {
+  border-color: #fff;
+}
+
