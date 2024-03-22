@@ -1,3 +1,4 @@
+/* Genel stiller */
 body {
   padding-top: 70px; /* Navbar'ın üzerindeki kısmı kaplaması için */
 }
@@ -8,30 +9,39 @@ body {
 }
 
 .navbar {
-  float: left; /* Navigasyon menüsünü sola yasla */
+  float: right; /* Navigasyon menüsünü sağa yasla */
 }
 
 .navbar .nav-link {
-  color: white;
+  text-align: left;
+}
+
+/* Galeri stilleri */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Grid sütunlarını otomatik olarak ayarla */
+  gap: 20px;
 }
 
 .gallery-item {
   border: 2px solid #000;
-  margin-bottom: 20px;
 }
 
 .image-frame,
 .info-frame {
   padding: 10px;
+  height: 100%; /* Yüksekliği 100% olarak ayarla */
 }
 
 .image-frame img {
   width: 100%;
+  height: 100%; /* Resim yüksekliğini %100 olarak ayarla */
 }
 
 .bird-name,
 .bird-info {
   text-align: center;
+  margin: 0; /* İsim ve bilgi metinlerinin kenar boşluklarını kaldır */
 }
 
 /* Dark tema stil tanımları */
@@ -52,4 +62,3 @@ body {
 .dark-theme .gallery-item {
   border-color: #fff;
 }
-
