@@ -1,6 +1,7 @@
-# prompt-engineering-domestic-birds
-
 # Portfolio / Galeri Web Sitesi
+
+> References :
+>> Global AI Hub
 
 Bu projede, yapay zeka araçlarını kullanarak üreteceğiniz görsel ve metinleri, yine bu
 araçlar yardımıyla geliştireceğiniz HTML tabanlı bir web sitesinde sergilemeniz
