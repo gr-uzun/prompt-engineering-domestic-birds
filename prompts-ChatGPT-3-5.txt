@@ -968,3 +968,41 @@ Copy code
   </div>
 </footer>
 Bu değişikliklerle, web sitesinin başlık kısmına "Evcil Kuş Türleri" başlığı ve footer kısmına "@Copyright "Gürkan UZUN"" ibaresi eklenmiş oldu.
+
+User
+Mouse ile resim (image) üzerine gelindiğinde, resimde ne gibi animasyonlar yapılabilir ?
+ChatGPT
+Resim (image) üzerine gelindiğinde bazı animasyonlarla kullanıcı deneyimini iyileştirebiliriz. İşte birkaç örnek:
+
+Zoom Efekti: Resim üzerine gelindiğinde resmin boyutunu artırarak bir zoom efekti oluşturabiliriz. Böylece kullanıcı, resmin daha detaylı bir görünümünü görebilir.
+
+Gölgelendirme: Resmin altına bir gölge ekleyerek, üzerine gelindiğinde resmin daha belirgin hale gelmesini sağlayabiliriz. Bu, resmin yükseltilmiş bir hissiyatını verebilir.
+
+Renk Değişimi: Resmin rengini veya tonunu üzerine gelindiğinde değiştirerek dikkat çekebiliriz. Örneğin, renkli bir çerçeve ekleyebilir veya resmin tonunu biraz değiştirebiliriz.
+
+Parlaklık Efekti: Resmin parlaklık seviyesini artırarak veya azaltarak görsel ilgiyi artırabiliriz. Bu, resmin üzerine gelindiğinde daha canlı veya daha mat bir görünüm elde etmemize olanak sağlar.
+
+Kenarlık Eklemek: Resmin etrafına bir kenarlık ekleyerek, kullanıcının resmin sınırlarını daha iyi görmesini sağlayabiliriz. Bu kenarlık üzerine gelindiğinde belirginleşebilir veya renk değiştirebilir.
+
+Bulanıklık Efekti: Resmin üzerine gelindiğinde arka planı hafifçe bulanıklaştırarak resmi vurgulayabiliriz. Bu, kullanıcının resme odaklanmasını kolaylaştırır.
+
+Bu animasyonlar CSS ile kolayca uygulanabilir. Örneğin, hover pseudo-sınıfını kullanarak resmin üzerine gelindiğinde farklı stil özellikleri belirleyebiliriz. Ancak, animasyonlar için CSS keyframe animasyonlarını kullanmak da mümkündür.
+
+User
+Html sayfasındaki kuş resimlerine mouse ile üzerine gelindiğinde parlaklık efekti ekleyebilir misin ?
+ChatGPT
+Tabii, kuş resimlerine mouse ile üzerine gelindiğinde parlaklık efekti eklemek için CSS kullanabiliriz. Bu efekti hover pseudo-sınıfını kullanarak uygulayabiliriz. İşte güncellenmiş CSS kodu:
+
+css
+Copy code
+/* Resimlerin üzerine gelindiğinde parlaklık efekti */
+.image-frame img {
+  width: 100%;
+  height: 100%;
+  transition: filter 0.3s ease-in-out; /* Parlaklık efekti için geçiş süresi tanımla */
+}
+
+.image-frame img:hover {
+  filter: brightness(120%); /* Resmin parlaklığını artır */
+}
+Bu CSS kodları, resimlerin üzerine gelindiğinde parlaklık efekti uygular. filter özelliği kullanılarak parlaklık efekti verilir ve transition özelliği ile geçiş süresi tanımlanır. Bu sayede, fare resmin üzerinden geçtiğinde yumuşak bir geçişle parlaklık efekti uygulanır.
