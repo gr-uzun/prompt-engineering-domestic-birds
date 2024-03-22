@@ -1,0 +1,19 @@
+https://leonardo.ai/
+
+Prompts :
+
+papagan.jpg : Please draw a happy parrot with jpeg image format , 250*250 px dimensions.
+
+muhabbet_kusu.jpg : Please draw a happy budgie with jpeg image format , 250*250 px dimensions.
+
+kanarya.jpg : Please draw a happy canary with jpeg image format , 250*250 px dimensions.
+
+saka.jpg : Please draw a happy goldfinch with jpeg image format , 250*250 px dimensions.
+
+cennet_papagani.jpg : Please draw a happy lovebird with jpeg image format , 250*250 px dimensions.
+
+amerikan_budgerigar.jpg : Please draw a angry Amerikan Budgerigar with jpeg image format , 250*250 px dimensions.
+
+bourke_papagani.jpg : Please draw a happy Bourke's Parrot on a tree branch with jpeg image format , 250*250 px dimensions.
+
+hint_bulbulu.jpg : Please draw a happy nightingale bird on a finger with jpeg image format , 250*250 px dimensions.
