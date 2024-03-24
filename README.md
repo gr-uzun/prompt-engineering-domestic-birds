@@ -3,6 +3,10 @@
 > References :
 >> Global AI Hub
 
+<div align="center">
+  <img src="images/logo.png">
+</div>
+
 Bu projede, yapay zeka araçlarını kullanarak üreteceğiniz görsel ve metinleri, yine bu
 araçlar yardımıyla geliştireceğiniz HTML tabanlı bir web sitesinde sergilemeniz
 beklenmektedir.
