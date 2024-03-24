@@ -4,7 +4,7 @@
 >> Global AI Hub
 
 <div align="center">
-  <img src="images/logo.png">
+  <img src="images/domestic-birds.png" width="250" height="150">
 </div>
 
 Bu projede, yapay zeka araçlarını kullanarak üreteceğiniz görsel ve metinleri, yine bu
